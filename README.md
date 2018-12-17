@@ -1,7 +1,7 @@
 # JavaMyCode
 
 JavaMyCode моя студенческая программа!
-название папки есть название проекта.
+Название папки есть название проекта.
 
 JavaMyCode is my study class! 
-order name is project name.
+Order name is project name.
